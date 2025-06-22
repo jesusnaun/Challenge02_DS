@@ -27,7 +27,7 @@ Este proyecto fue desarrollado como parte del **segundo reto de análisis de dat
 
 ## 📊 Objetivo Principal
 ```python
-"Proporcionar insights con respecto a churn basados en:
+Proporcionar insights con respecto a churn basados en:
 1. Servicios
 2. Métodos de Pago
 3. Contrato
