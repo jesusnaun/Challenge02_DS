@@ -14,7 +14,9 @@ Este proyecto fue desarrollado como parte del **segundo reto de análisis de dat
 - Conclusiones e Insights
 - Recomendaciones
 
-**Enlace al Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IQGyYhbay9V-7njeg0loyBlAj89jwRMd#scrollTo=x9kjCAFYj8Zv)
+**Enlace al Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jesusnaun/Challenge02_lnk/blob/main/TelecomX_LATAM.ipynb)
+
+
 
 ## 🛠 Tecnologías Utilizadas
 | Librería       | Uso en el Proyecto                                                                 |
